@@ -1,2 +1,2 @@
 # zhihu-spider
-use python login www.zhihu.com
+use python login www.cc98.org
